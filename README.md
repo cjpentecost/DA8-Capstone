@@ -1,5 +1,6 @@
 What impact does the weather have on mushroom growth?
-
+Are there Seasonal Mushrooms?
+Are there mushrooms specific to region?
 
 Mushroom data https://github.com/MushroomObserver/mushroom-observer/blob/main/README_API.md#csv-files 
 
